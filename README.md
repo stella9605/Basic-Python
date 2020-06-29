@@ -16,7 +16,9 @@ from numpy import nan as NA
 
 save as profile1, then
 easy to use 
-```
-python
+
+```python
+
 run profile1
+
 ```
