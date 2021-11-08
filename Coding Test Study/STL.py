@@ -10,7 +10,7 @@
 
 ## 5. math : 수학적 기능을 제공 
 
-# 1. itertools : 반복되는 데이터를 처리하는 기능을 포함. 코테에셔 permutations, combinateions 을 유용하게 쓸수 있음.
+# 1. itertools : 반복되는 데이터를 처리하는 기능을 포함. 코테에서 permutations, combinations 을 유용하게 쓸수 있음.
 # permutations : 리스트와 같은 iterable 객체에서 r 개의 데이터를 뽑아 일렬로 나열하는 모든 경우(순열)를 계산해줌.
 # permutations 은 클래스 이므로 객체 초기화 이후에는 리스트 자료형으로변환하여 사용 가능.
 # 중복 허용 하지 않음
